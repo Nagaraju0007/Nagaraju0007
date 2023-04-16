@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nagaraju
 - 👀 I’m interested in ... In coding & programming 
 - 🌱 I’m currently learning ... Python full stack 
+- 🗣️ languages know... English, Hindi, Telugu, Spanish litle bit 
 - 📫 How to reach me ... 
 
 <!---
